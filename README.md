@@ -28,4 +28,14 @@
   <li>For Each Loop</li>
   <li>Methods</li>
   <li>Overloaded Methods</li>
+  <li>Printf</li>
+  <li>Final Keyword</li>
+  <li>Objects (OOP)</li>
+  <li>Constructors</li>
+  <li>Variable Scope</li>
+  <li>Overloaded Constructors</li>
+  <li>toString Method</li>
+  <li>Array of Objects</li>
+  <li>Object Passing</li>
+  <li>Static Keyword</li>
 </ul>
