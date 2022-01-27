@@ -38,4 +38,5 @@
   <li>Array of Objects</li>
   <li>Object Passing</li>
   <li>Static Keyword</li>
+  <li>Inheritance</li>
 </ul>
